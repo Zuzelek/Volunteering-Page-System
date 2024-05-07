@@ -4,13 +4,13 @@ import React from 'react'
 // all functions have to be capital letter
 
 
+
 function Navbar() {
   return (
     <div>
-        <div className="navbar">HEELLLLLLLLLLLLLLLLLOOOO</div>
+        <div className="navbar">Connecting Kerry</div>
         <div id="login">login </div>
     </div>
   )
 }
-
 export default Navbar;
